@@ -1,0 +1,47 @@
+.payment-form {
+    background-color: #f6f9fc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+  }
+  
+  .card-element {
+    margin-bottom: 20px; /* Add margin to create space between CardElement and button */
+  }
+  
+  .pay-button {
+    background-color: #0069d9;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px 20px;
+    width: 100%;
+  }
+  
+
+.payment-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  
+  .pay-button {
+    background-color: #0069d9;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px 20px;
+    width: 100%;
+  }
+  
+  .error-message,
+  .success-message {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
