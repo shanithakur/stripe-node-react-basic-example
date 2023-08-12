@@ -1,4 +1,4 @@
-git# Node React Basic Stripe Integration
+#Node React Basic Stripe Integration
 
 This repository demonstrates a basic integration of Stripe payments using Node.js and React.js.
 
